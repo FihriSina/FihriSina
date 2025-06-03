@@ -31,6 +31,9 @@
   <!-- Assembly -->
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=gnuemacs&logoColor=white" />
 
+  <!-- Logisim -->
+  <img src="https://img.shields.io/badge/Logisim-888888?style=for-the-badge&logo=circuit-board&logoColor=white" />
+
   <!-- C/C++ -->
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
