@@ -58,6 +58,9 @@
   <!-- CSS -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
+  <!-- PLC Programming -->
+  <img src="https://img.shields.io/badge/OMRON-Sysmac%20Studio%20(Ladder)-FF0000?style=for-the-badge&logo=omron&logoColor=white" />
+  
 </p>
 
 <p align="center">
